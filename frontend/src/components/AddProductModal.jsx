@@ -113,7 +113,7 @@ function AddProductModal() {
               ) : (
                 <>
                   <PlusCircleIcon className="size-5 mr-2" />
-                  Add Product
+                  Add Painting
                 </>
               )}
             </button>

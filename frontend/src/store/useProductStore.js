@@ -32,7 +32,7 @@ export const useProductStore = create((set, get) => ({
       await axios.post(`${BASE_URL}/api/products`, formData);
       await get().fetchProducts();
       get().resetForm();
-      toast.success("Product added successfully");
+      toast.success("Painting added successfully");
       document.getElementById("add_product_modal").close();
     } catch (error) {
       console.log("Error in addProduct function", error);
@@ -66,7 +66,7 @@ export const useProductStore = create((set, get) => ({
       set((prev) => ({
         products: prev.products.filter((product) => product.id !== id),
       }));
-      toast.success("Product Deleted Successfuly");
+      toast.success("Painting Deleted Successfuly");
     } catch (error) {
       console.log("Error in deleteProduct function", error);
       toast.error("Somthing went wrong");
@@ -103,7 +103,7 @@ export const useProductStore = create((set, get) => ({
         formData
       );
       set({ currentProduct: response.data.data });
-      toast.success("Product Updated Successfuly");
+      toast.success("Painting Updated Successfuly");
     } catch (error) {
       toast.error("Something went worng ");
       console.log("Error in updateProduct function in useProductStore.js");
