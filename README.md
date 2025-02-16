@@ -20,7 +20,7 @@ A full-stack gallery manager with dynamic themes, secure CRUD operations, and re
 
 ## 📸 Screenshots
 
-![NeonGallery UI]()
+![NeonGallery UI](frontend/public/image2.png)
 
 ## 🤝 Contributing
 Feel free to contribute! Fork the repo, make your changes, and submit a pull request.
