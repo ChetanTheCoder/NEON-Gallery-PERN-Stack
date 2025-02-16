@@ -31,7 +31,3 @@ Feel free to contribute! Fork the repo, make your changes, and submit a pull req
 
 🔥 Built with ❤️ by [Your Name](https://github.com/your-username)
 
-
-
-![React](https://img.shields.io/badge/React-18-blue)  
-![Postgres](https://img.shields.io/badge/Neon-Postgres-green)  
