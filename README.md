@@ -29,5 +29,5 @@ Feel free to contribute! Fork the repo, make your changes, and submit a pull req
 ![React](https://img.shields.io/badge/React-18-blue)  
 ![Postgres](https://img.shields.io/badge/Neon-Postgres-green)  
 
-🔥 Built with ❤️ by [Your Name](https://github.com/your-username)
+🔥 Built with ❤️ by [Chetan Majumdar](https://github.com/ChetanTheCoder)
 
