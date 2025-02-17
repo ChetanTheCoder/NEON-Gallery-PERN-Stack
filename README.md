@@ -2,6 +2,10 @@
 
 A full-stack gallery manager with dynamic themes, secure CRUD operations, and real-time updates. Built for creators who value aesthetics and security.
 
+## 📸 Screenshots
+
+![NeonGallery UI](frontend/public/image2.png)
+
 ## ✨ Features
 
 - 🖼️ **Image & Metadata Management**: Upload, name, price, and curate artworks/products.
@@ -18,9 +22,6 @@ A full-stack gallery manager with dynamic themes, secure CRUD operations, and re
 - **Security**: Arcjet, Helmet  
 - **Tools**: React Hot Toast, Zustand  
 
-## 📸 Screenshots
-
-![NeonGallery UI](frontend/public/image2.png)
 
 ## 🤝 Contributing
 Feel free to contribute! Fork the repo, make your changes, and submit a pull request.
